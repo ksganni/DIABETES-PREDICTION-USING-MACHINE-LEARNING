@@ -11,10 +11,6 @@ env/
 # Jupyter
 *.ipynb_checkpoints
 
-# Data and results
-results/
-diabetes.csv
-
 # OS files
 .DS_Store
 Thumbs.db
